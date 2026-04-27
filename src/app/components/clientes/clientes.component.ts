@@ -33,7 +33,7 @@ import { Component, OnInit, ElementRef } from '@angular/core';
 })
 export class ClientesComponent implements OnInit {
   visible = false;
-  logos = ['Volvo', 'Shell', 'Petrobras', 'HSBC', 'New Holland Agriculture'];
+  logos = ['Hilton', 'Marriott', 'Club Med', 'Fasano', 'Atlântico', 'Ocean Palace', 'InterContinental', 'Grand Hyatt'];
   constructor(private el: ElementRef) {}
   ngOnInit() {
     new IntersectionObserver(([e]) => { if (e.isIntersecting) this.visible = true; }, { threshold: 0.2 })
