@@ -11,7 +11,7 @@ import { PageHeroComponent } from '../../shared/page-hero.component';
       title="Guarda-Chuva"
       eyebrow="Proteção com Presença"
       subtitle="Mais do que proteger — levar a identidade da marca para o cotidiano com elegância e personalidade."
-      img="assets/imagem/vernati (11).jpeg"
+      img="assets/imagem/fundo.png"
     ></app-page-hero>
 
     <!-- Intro -->
