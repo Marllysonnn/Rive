@@ -226,9 +226,9 @@ export class OmbrelonesPageComponent implements OnInit {
     { title: 'Ombrelone Central', tag: 'Clássico', img: 'assets/imagem/vernati (85).jpeg',
       desc: 'A linha clássica com haste central robusta. Elegância e estabilidade para piscinas, praias e varandas.',
       features: ['Diâmetros de 2m a 3m', 'Haste em alumínio anodizado', 'Tecido impermeável FPS 100', 'Personalização total de cores'] },
-    { title: 'Ombrelone Lateral', tag: 'Premium', img: 'assets/imagem/vernati (77).jpeg',
+/*     { title: 'Ombrelone Lateral', tag: 'Premium', img: 'assets/imagem/vernati (77).jpeg',
       desc: 'Haste lateral para máxima liberdade de sombra sem obstáculos centrais. Perfeito para lounges e mesas.',
-      features: ['Braço lateral articulado', 'Base pesada antivento', 'Rotação de 360°', 'Ideal para restaurantes e hotéis'] },
+      features: ['Braço lateral articulado', 'Base pesada antivento', 'Rotação de 360°', 'Ideal para restaurantes e hotéis'] }, */
     { title: 'Ombrelone Gigante', tag: 'Comercial', img: 'assets/imagem/vernati (74).jpeg',
       desc: 'Para grandes áreas de lazer e hospitality. Estrutura reforçada para eventos, clubes e resorts.',
       features: ['Diâmetros acima de 3.5m', 'Estrutura multivaretas', 'Ideal para áreas comerciais', 'Instalação profissional inclusa'] },
