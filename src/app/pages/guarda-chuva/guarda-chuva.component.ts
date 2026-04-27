@@ -28,7 +28,7 @@ import { PageHeroComponent } from '../../shared/page-hero.component';
             </a>
           </div>
           <div class="intro-image">
-            <img src="assets/imagem/vernati (1).jpeg" alt="Guarda-chuva premium Rive"/>
+            <img src="assets/imagem/guarda chuva (14).png" alt="Guarda-chuva premium Rive"/>
             <div class="img-accent"></div>
           </div>
         </div>
@@ -60,11 +60,11 @@ import { PageHeroComponent } from '../../shared/page-hero.component';
         <span class="section-label">Galeria</span>
         <div class="gallery-grid">
           <div class="gal-main">
-            <img src="assets/imagem/vernati (3).jpeg" alt="Guarda-chuva Rive"/>
+            <img src="assets/imagem/guarda chuva (25).png" alt="Guarda-chuva Rive"/>
           </div>
           <div class="gal-side">
-            <img src="assets/imagem/vernati (7).jpeg" alt="Detalhe guarda-chuva"/>
-            <img src="assets/imagem/vernati (52).jpeg" alt="Guarda-chuva personalizado"/>
+            <img src="assets/imagem/guarda chuva (5).png" alt="Detalhe guarda-chuva"/>
+            <img src="assets/imagem/guarda chuva (1).png" alt="Guarda-chuva personalizado"/>
           </div>
         </div>
       </div>
@@ -226,8 +226,8 @@ export class GuardaChuvaPageComponent implements OnInit {
   ];
   editorials = [
     { label: 'Personalização', title: 'Construção que transmite confiança', text: 'Mais do que proteção, o guarda-chuva Rive entrega sensação de solidez no uso diário. Uma estrutura pensada para unir resistência, estabilidade e presença visual em cada detalhe.',
-      img: 'assets/imagem/vernati (83).jpeg' },
+      img: 'assets/imagem/guarda chuva (12).png' },
     { label: 'Identidade de Marca', title: 'Para marcas que querem ser lembradas', text: 'A personalização transforma o guarda-chuva em um ponto de contato memorável. Ideal para marcas, eventos e ações promocionais que querem unir utilidade, visibilidade e acabamento superior.',
-      img: 'assets/imagem/vernati (87).jpeg' }
+      img: 'assets/imagem/guarda chuva (3).png' }
   ];
 }
